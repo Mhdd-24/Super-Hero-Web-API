@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l/+pUcp5YrM=",
+  "success": true,
+  "projectFilePath": "/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/Super Hero Web API/SuperHeroWebAPI/SuperHeroWebAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/mhdd24/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/mhdd24/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
